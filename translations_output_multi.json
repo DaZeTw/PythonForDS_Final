@@ -1,0 +1,53 @@
+[
+    {
+        "input": {
+            "texts": [
+                "Hello",
+                "I am Peter"
+            ],
+            "dest_language": "vi"
+        },
+        "response": "[\"Xin chào\", \"Tôi là Peter\"]"
+    },
+    {
+        "input": {
+            "texts": [
+                "Xin chào",
+                "Tôi là sinh viên"
+            ],
+            "dest_language": "vi"
+        },
+        "response": "[\"Xin chào\", \"Tôi là sinh viên\"]"
+    },
+    {
+        "input": {
+            "texts": [
+                "Good evening",
+                "How are you?",
+                "Tôi đang học tiếng Anh"
+            ],
+            "dest_language": "vi"
+        },
+        "response": "[\"Chào buổi tối\", \"Bạn khoẻ không?\", \"Tôi đang học tiếng Anh\"]"
+    },
+    {
+        "input": {
+            "texts": [
+                "What is your name?",
+                "Tên tôi là An"
+            ],
+            "dest_language": "vi"
+        },
+        "response": "[\"Tên bạn là gì?\", \"Tên tôi là An\"]"
+    },
+    {
+        "input": {
+            "texts": [
+                "Thank you",
+                "Welcome"
+            ],
+            "dest_language": "vi"
+        },
+        "response": "[\"Cảm ơn\", \"Chào mừng\"]"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "input": {
+            "text": "Hello",
+            "dest_language": "vi"
+        },
+        "response": "\"Xin chào\""
+    },
+    {
+        "input": {
+            "text": "Xin chào",
+            "dest_language": "vi"
+        },
+        "response": "\"Xin chào\""
+    },
+    {
+        "input": {
+            "text": "Good morning",
+            "dest_language": "vi"
+        },
+        "response": "\"Chào buổi sáng\""
+    },
+    {
+        "input": {
+            "text": "Chào buổi sáng",
+            "dest_language": "vi"
+        },
+        "response": "Chào buổi sáng"
+    },
+    {
+        "input": {
+            "text": "Thank you",
+            "dest_language": "vi"
+        },
+        "response": "\"Cảm ơn\""
+    }
+]
